@@ -1,7 +1,7 @@
 ## Olá, Sou André Barez 👋
 
 
-- 🔭 Atuo com desenvolvimento Full-Stack;
+- 🔭 Atuo com desenvolvimento Full-Stack e QA;
 - 🌱 Estou Estudando Node.js, HTML e CSS;
 - 📫 Contate-me no e-mail: andre.barez@outlook.com  
 
